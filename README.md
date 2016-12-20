@@ -27,5 +27,5 @@ Using our previous example:
 Then you can upload your files to the webserver and enjoy :)
 
 
-## Credits
+# Credits
 This project was coded by [Philip Tang](https://twitter.com/philipwutang) and [Manuel Dionne](https://twitter.com/AideTechBot)
